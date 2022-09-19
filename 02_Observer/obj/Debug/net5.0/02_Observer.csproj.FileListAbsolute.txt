@@ -1,0 +1,16 @@
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\02_Observer\bin\Debug\net5.0\02_Observer.exe
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\02_Observer\bin\Debug\net5.0\02_Observer.deps.json
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\02_Observer\bin\Debug\net5.0\02_Observer.runtimeconfig.json
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\02_Observer\bin\Debug\net5.0\02_Observer.runtimeconfig.dev.json
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\02_Observer\bin\Debug\net5.0\02_Observer.dll
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\02_Observer\bin\Debug\net5.0\ref\02_Observer.dll
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\02_Observer\bin\Debug\net5.0\02_Observer.pdb
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\02_Observer\obj\Debug\net5.0\02_Observer.csproj.AssemblyReference.cache
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\02_Observer\obj\Debug\net5.0\02_Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\02_Observer\obj\Debug\net5.0\02_Observer.AssemblyInfoInputs.cache
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\02_Observer\obj\Debug\net5.0\02_Observer.AssemblyInfo.cs
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\02_Observer\obj\Debug\net5.0\02_Observer.csproj.CoreCompileInputs.cache
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\02_Observer\obj\Debug\net5.0\02_Observer.dll
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\02_Observer\obj\Debug\net5.0\ref\02_Observer.dll
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\02_Observer\obj\Debug\net5.0\02_Observer.pdb
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\02_Observer\obj\Debug\net5.0\02_Observer.genruntimeconfig.cache
